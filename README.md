@@ -1,10 +1,20 @@
-# CS 스터디
+# Computer Science
 
-- [깃짱의 스터디 바로가기](https://github.com/seoul-developer/CS/tree/gitchan)
-- [이리내의 스터디 바로가기](https://github.com/seoul-developer/CS/tree/irene)
+작성자: [깃짱(조은기)](https://github.com/gitchannn), [이리내(성채연)](https://github.com/hectick)
 
-## 💋 멤버
+### 주니어 개발자를 위한 전공 지식 모음.zip
 
-|깃짱의 이미지|이리내의 이미지|
-|:---:|:---:|
-| 깃짱 | 이리내 |
+## 💋Computer Science
+
+### ✔ Data Structure
+
+- Array
+- LinkedList
+- Array & ArrayList & LinkedList
+- 스택(Stack) & 큐(Queue)
+- 힙(Heap)
+- 트리(Tree)
+- 이진탐색트리(Binary Search Tree)
+- 해시(Hash)
+- 트라이(Trie)
+- B-Tree & B+Tree
