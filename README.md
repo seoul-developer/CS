@@ -6,7 +6,7 @@
 
 ## 💋Computer Science
 
-### ✔ Data Structure
+### ✔ Data Structure `23.12.05 ~ 23.12.21`
 
 - Array
 - LinkedList
