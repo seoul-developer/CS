@@ -2,6 +2,13 @@
 
 작성자: [깃짱](https://github.com/gitchannn)
 
+## 💋[Database](https://engineerinsight.tistory.com/category/CS/DB)
+
+- [데이터베이스 용어 정리: DBMS, metadata, data models, schema, state, three-schema architecture 등등](https://engineerinsight.tistory.com/304)
+- [Relational Database Constriants: 개념, implicit constraint와 explicit constraint, 종류](https://engineerinsight.tistory.com/305)
+- [SQL JOIN의 모든 것: Implicit VS Explicit, Inner VS Outer, Equi, Natural, Cross Join과 예시까지!](https://engineerinsight.tistory.com/307)
+- [SQL 명령어 헷갈리는거 다 모아: ORDER BY, Aggregate Function, GROUP BY, HAVING, SELECT의 실행 순서](https://engineerinsight.tistory.com/308)
+
 ## 💋[Operation System](https://engineerinsight.tistory.com/category/CS/OS)
 
 - [프로세스/스레드의 개념: 멀티태스킹, 멀티스레딩, 멀티프로세싱, 멀티프로그래밍을 구분하자!](https://engineerinsight.tistory.com/281)
