@@ -8,7 +8,8 @@
 
 ### ✔ Data Structure `23.12.05 ~ 23.12.21`
 
-- Array
+- [ADT(Abstract Data Type)](https://engineerinsight.tistory.com/313)
+- Array [개념](https://engineerinsight.tistory.com/311) 
 - LinkedList
 - Array & ArrayList & LinkedList
 - 스택(Stack) & 큐(Queue)
