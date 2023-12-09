@@ -10,7 +10,7 @@
 
 - [ADT(Abstract Data Type)](https://engineerinsight.tistory.com/313)
 - Array [개념](https://engineerinsight.tistory.com/311) 
-- LinkedList
+- LinkedList [개념](https://engineerinsight.tistory.com/m/314)
 - Array & ArrayList & LinkedList
 - 스택(Stack) & 큐(Queue)
 - 힙(Heap)
