@@ -12,7 +12,7 @@
 - Array [개념](https://engineerinsight.tistory.com/311) 
 - LinkedList [개념](https://engineerinsight.tistory.com/m/314)
 - Array & ArrayList & LinkedList
-- 스택(Stack) & 큐(Queue)
+- 스택(Stack) & 큐(Queue) [개념](https://engineerinsight.tistory.com/315)
 - 힙(Heap)
 - 트리(Tree)
 - 이진탐색트리(Binary Search Tree)
