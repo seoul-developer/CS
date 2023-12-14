@@ -15,6 +15,7 @@
 - 스택(Stack) & 큐(Queue) [개념](https://engineerinsight.tistory.com/315)
 - 힙(Heap)
 - 트리(Tree) [개념](https://engineerinsight.tistory.com/316)
+- 이진 트리(Binary Tree) [개념](https://engineerinsight.tistory.com/317)
 - 이진탐색트리(Binary Search Tree)
 - 해시(Hash)
 - 트라이(Trie)
