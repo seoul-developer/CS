@@ -13,7 +13,7 @@
 - LinkedList [개념](https://engineerinsight.tistory.com/m/314)
 - Array & ArrayList & LinkedList
 - 스택(Stack) & 큐(Queue) [개념](https://engineerinsight.tistory.com/315)
-- 힙(Heap)
+- 힙(Heap) [개념](https://engineerinsight.tistory.com/320)
 - 트리(Tree) [개념](https://engineerinsight.tistory.com/316)
 - 이진 트리(Binary Tree) [개념](https://engineerinsight.tistory.com/317)
 - 이진탐색트리(Binary Search Tree) [개념](https://engineerinsight.tistory.com/321)
