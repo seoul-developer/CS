@@ -17,6 +17,7 @@
 - 트리(Tree) [개념](https://engineerinsight.tistory.com/316)
 - 이진 트리(Binary Tree) [개념](https://engineerinsight.tistory.com/317)
 - 이진탐색트리(Binary Search Tree) [개념](https://engineerinsight.tistory.com/321)
+- AVL 트리 [개념](https://engineerinsight.tistory.com/329)
 - 해시(Hash)
 - 트라이(Trie)
 - B-Tree & B+Tree
