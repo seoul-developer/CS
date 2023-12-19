@@ -20,6 +20,7 @@
 - 해시(Hash)
 - 트라이(Trie)
 - B-Tree [개념](https://engineerinsight.tistory.com/330)
+  - [DB 인덱스에서 B-Tree 계열을 사용하는 이유](https://engineerinsight.tistory.com/331)
 - B+Tree 
 
 ### ✔ [Database](https://engineerinsight.tistory.com/category/CS/DB)
