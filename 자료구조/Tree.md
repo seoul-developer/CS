@@ -33,5 +33,5 @@
     - 정 이진 트리(full binary tree): 각 노드는 0개 또는 2개의 자식을 갖는다.
     - 포화 이진 트리(perfect binary tree): 모든 단말 노드의 레벨이 같다. 단말 노드가 아닌 노드는 반드시 2개의 자식을 갖는다.
     - 완전 이진 트리(complete binary tree): 마지막 레벨을 제외하고 모든 레벨이 완전히 채워져 있다. 단말 노드는 왼쪽부터 채워진다.
-        - 예시) [이진 힙(Binary Heap)]()
-    - [이진 탐색 트리(binary search tree)]()
+        - 예시) [이진 힙(Binary Heap)](https://github.com/hectick/CS/blob/irene/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Binary%20Heap.md)
+    - [이진 탐색 트리(binary search tree)](https://github.com/hectick/CS/blob/irene/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Binary%20Search%20Tree.md)
