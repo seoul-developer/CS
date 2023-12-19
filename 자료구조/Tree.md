@@ -35,3 +35,4 @@
     - 완전 이진 트리(complete binary tree): 마지막 레벨을 제외하고 모든 레벨이 완전히 채워져 있다. 단말 노드는 왼쪽부터 채워진다.
         - 예시) [이진 힙(Binary Heap)](https://github.com/hectick/CS/blob/irene/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Binary%20Heap.md)
     - [이진 탐색 트리(binary search tree)](https://github.com/hectick/CS/blob/irene/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Binary%20Search%20Tree.md)
+    - 균형 이진 트리 (balanced binary tree): 모든 노드에서 좌우 서브트리의 높이 차가 1 이하인 트리이다.
