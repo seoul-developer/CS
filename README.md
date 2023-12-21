@@ -17,10 +17,11 @@
 - 트리(Tree) [개념](https://engineerinsight.tistory.com/316)
 - 이진 트리(Binary Tree) [개념](https://engineerinsight.tistory.com/317)
 - 이진탐색트리(Binary Search Tree) [개념](https://engineerinsight.tistory.com/321)
-- AVL 트리 [개념](https://engineerinsight.tistory.com/329)
+  - AVL 트리 [개념](https://engineerinsight.tistory.com/329)
+  - Red-Black 트리 
 - Set & HashSet [개념](https://engineerinsight.tistory.com/333)
 - 해시 테이블(Hash Table) [개념](https://engineerinsight.tistory.com/332)
-- 트라이(Trie)
+- 트라이(Trie) [개념](https://engineerinsight.tistory.com/335)
 - B-Tree [개념](https://engineerinsight.tistory.com/330)
   - [DB 인덱스에서 B-Tree 계열을 사용하는 이유](https://engineerinsight.tistory.com/331)
 - B+Tree 
