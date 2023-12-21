@@ -24,7 +24,7 @@
 - 트라이(Trie) [개념](https://engineerinsight.tistory.com/335)
 - B-Tree [개념](https://engineerinsight.tistory.com/330)
   - [DB 인덱스에서 B-Tree 계열을 사용하는 이유](https://engineerinsight.tistory.com/331)
-- B+Tree 
+- B+Tree [개념](https://engineerinsight.tistory.com/336)
 
 ### ✔ [Database](https://engineerinsight.tistory.com/category/CS/DB)
 
