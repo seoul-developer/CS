@@ -12,3 +12,4 @@ CS 공부하고 내 말로 정리하자!
 - [Trie](https://github.com/hectick/CS/blob/irene/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Trie.md)
 - [Hash](https://github.com/hectick/CS/blob/irene/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Hash.md)
 - [Graph](https://github.com/hectick/CS/blob/irene/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Graph.md)
+- B-Tree
