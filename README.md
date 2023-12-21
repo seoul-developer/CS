@@ -9,7 +9,9 @@
 ### ✔ Data Structure `23.12.05 ~ 23.12.21`
 
 - ADT(Abstract Data Type) [개념](https://engineerinsight.tistory.com/313)
-- Array [개념](https://engineerinsight.tistory.com/311) 
+- Array
+  - Static Array [개념](https://engineerinsight.tistory.com/311#%F0%9F%92%8B%C2%A0%EB%B0%B0%EC%97%B4(Array)-1)
+  - Dynamic Array (ArrayList) [개념](https://engineerinsight.tistory.com/311#%F0%9F%92%8B%C2%A0%EB%8F%99%EC%A0%81%20%EB%B0%B0%EC%97%B4(Dynamic%20Array)-1)
 - LinkedList [개념](https://engineerinsight.tistory.com/m/314)
 - Array & ArrayList & LinkedList
 - 스택(Stack) & 큐(Queue) [개념](https://engineerinsight.tistory.com/315)
@@ -17,8 +19,8 @@
 - 트리(Tree) [개념](https://engineerinsight.tistory.com/316)
 - 이진 트리(Binary Tree) [개념](https://engineerinsight.tistory.com/317)
 - 이진탐색트리(Binary Search Tree) [개념](https://engineerinsight.tistory.com/321)
-  - AVL 트리 [개념](https://engineerinsight.tistory.com/329)
-  - Red-Black 트리 
+- AVL 트리 [개념](https://engineerinsight.tistory.com/329)
+- Red-Black 트리 
 - Set & HashSet [개념](https://engineerinsight.tistory.com/333)
 - 해시 테이블(Hash Table) [개념](https://engineerinsight.tistory.com/332)
 - 트라이(Trie) [개념](https://engineerinsight.tistory.com/335)
