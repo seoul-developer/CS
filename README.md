@@ -28,13 +28,19 @@
   - [DB 인덱스에서 B-Tree 계열을 사용하는 이유](https://engineerinsight.tistory.com/331)
 - B+Tree [개념](https://engineerinsight.tistory.com/336)
 
-### ✔ [Database](https://engineerinsight.tistory.com/category/CS/DB)
+### ✔ Database `23.12.22 ~ 24.01.09`
 
-(임시)
-- [데이터베이스 용어 정리: DBMS, metadata, data models, schema, state, three-schema architecture 등등](https://engineerinsight.tistory.com/304)
-- [Relational Database Constriants: 개념, implicit constraint와 explicit constraint, 종류](https://engineerinsight.tistory.com/305)
-- [SQL JOIN의 모든 것: Implicit VS Explicit, Inner VS Outer, Equi, Natural, Cross Join과 예시까지!](https://engineerinsight.tistory.com/307)
-- [SQL 명령어 헷갈리는거 다 모아: ORDER BY, Aggregate Function, GROUP BY, HAVING, SELECT의 실행 순서](https://engineerinsight.tistory.com/308)
+- 키(Key) 정리
+- SQL - JOIN
+- SQL Injection
+- SQL vs NoSQL
+- 정규화(Normalization)
+- 이상(Anomaly)
+- 인덱스(INDEX)
+- 트랜잭션(Transaction)
+- 트랜잭션 격리 수준(Transaction Isolation Level)
+- 저장 프로시저(Stored PROCEDURE)
+- 레디스(Redis)
 
 ### ✔ [Operation System](https://engineerinsight.tistory.com/category/CS/OS)
 
