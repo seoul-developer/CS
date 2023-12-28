@@ -23,6 +23,7 @@
 - Red-Black 트리 
 - Set & HashSet [개념](https://engineerinsight.tistory.com/333)
 - 해시 테이블(Hash Table) [개념](https://engineerinsight.tistory.com/332)
+  - [Java 8부터 도입된 HashMap의 Treeify: hash collision 성능 개선](https://engineerinsight.tistory.com/339)
 - 트라이(Trie) [개념](https://engineerinsight.tistory.com/335)
 - B-Tree [개념](https://engineerinsight.tistory.com/330)
   - [DB 인덱스에서 B-Tree 계열을 사용하는 이유](https://engineerinsight.tistory.com/331)
