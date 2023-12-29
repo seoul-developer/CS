@@ -28,6 +28,10 @@
   - [DB 인덱스에서 B-Tree 계열을 사용하는 이유](https://engineerinsight.tistory.com/331)
 - B+Tree [개념](https://engineerinsight.tistory.com/336)
 
+### ✔ Algorithm
+
+- 버블 정렬 vs 선택 정렬 vs 삽입 정렬 [개념](https://engineerinsight.tistory.com/340)
+
 ### ✔ Database `23.12.22 ~ 24.01.09`
 
 - 키(Key) 정리
