@@ -36,7 +36,7 @@
 ### ✔ Database `23.12.22 ~ 24.01.09`
 
 - 키(Key) 정리
-- SQL - JOIN
+- SQL - JOIN [개념](https://engineerinsight.tistory.com/307)
 - SQL Injection
 - SQL vs NoSQL
 - 정규화(Normalization)
