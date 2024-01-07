@@ -47,6 +47,7 @@
 - 트랜잭션(Transaction)
   - [ACID](https://engineerinsight.tistory.com/210)
 - 트랜잭션 격리 수준(Transaction Isolation Level)
+- 저장 함수(Stored Function) [개념](https://engineerinsight.tistory.com/346)
 - 저장 프로시저(Stored PROCEDURE)
 - 레디스(Redis)
 
