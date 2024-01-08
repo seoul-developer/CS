@@ -42,7 +42,7 @@
 - SQL Injection
 - SQL vs NoSQL
 - 정규화(Normalization)
-- 이상(Anomaly)
+- 이상(Anomaly) [개념](https://developer-talk.tistory.com/256)
 - 인덱스(INDEX)
 - 트랜잭션(Transaction)
   - [ACID](https://engineerinsight.tistory.com/210)
