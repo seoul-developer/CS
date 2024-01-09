@@ -39,7 +39,7 @@
 
 - 키(Key) 정리
 - SQL - JOIN [개념](https://engineerinsight.tistory.com/307)
-- SQL Injection
+- SQL Injection [개념](https://engineerinsight.tistory.com/352)
 - SQL vs NoSQL
 - 정규화(Normalization)
 - 이상(Anomaly) [개념](https://developer-talk.tistory.com/256)
