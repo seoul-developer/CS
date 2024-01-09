@@ -43,7 +43,7 @@
 - SQL vs NoSQL
 - 정규화(Normalization)
 - 이상(Anomaly) [개념](https://developer-talk.tistory.com/256)
-- 인덱스(INDEX)
+- 인덱스(INDEX) [개념](https://engineerinsight.tistory.com/184)
 - 트랜잭션(Transaction)
   - [ACID](https://engineerinsight.tistory.com/210)
 - 트랜잭션 격리 수준(Transaction Isolation Level) [개념](https://engineerinsight.tistory.com/182)
