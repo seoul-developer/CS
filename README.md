@@ -52,7 +52,7 @@
 - 저장 프로시저(Stored PROCEDURE)
 - 레디스(Redis)
 
-### ✔️ Network
+### ✔️ Network `24.01.09 ~ 24.01.25`
 
 - OSI 7 계층
 - TCP 3 way handshake & 4 way handshake
