@@ -55,7 +55,7 @@
 
 ### ✔️ Network `24.01.09 ~ 24.01.25`
 
-- OSI 7 계층
+- OSI 7 계층 [개념](https://engineerinsight.tistory.com/118)
 - TCP 3 way handshake & 4 way handshake
 - TCP/IP 흐름제어 & 혼잡제어
 - UDP
