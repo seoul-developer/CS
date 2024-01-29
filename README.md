@@ -55,7 +55,7 @@
 - 트랜잭션 격리 수준(Transaction Isolation Level) [개념](https://engineerinsight.tistory.com/182)
 - MVCC [개념](https://engineerinsight.tistory.com/354)
 - 저장 함수(Stored Function) [개념](https://engineerinsight.tistory.com/346)
-- 저장 프로시저(Stored PROCEDURE)
+- 저장 프로시저(Stored PROCEDURE) [개념](https://engineerinsight.tistory.com/346)
 - 레디스(Redis)
 
 ### ✔️ Network `24.01.09 ~ 24.01.25`
