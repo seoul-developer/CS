@@ -4,7 +4,12 @@
 
 ### 주니어 개발자를 위한 전공 지식 모음.zip
 
-## 💋Computer Science
+## 💋 Web
+
+### ✔️ REST
+- [RESTful API](https://engineerinsight.tistory.com/356)
+
+## 💋 Computer Science
 
 ### ✔ Data Structure `23.12.05 ~ 23.12.21`
 
